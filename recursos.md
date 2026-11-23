@@ -33,12 +33,7 @@ Prioridade para conteúdos gratuitos e em português; os materiais em inglês en
 | Hashtag Treinamentos — aulas de Excel no YouTube | PT | https://www.youtube.com/@HashtagTreinamentos |
 | Khan Academy — Estatística e probabilidade | PT | https://pt.khanacademy.org/math/statistics-probability |
 
-**Seus materiais nesta semana**
-- **Planilha "Monitor 2026" (Sala de Ações)** — Drive › Compartilhados comigo (somente leitura). Faça uma cópia e estude a estrutura (painel geral, abas por setor, retornos na semana/mês/ano). Extra: recriar com tabela dinâmica o retorno por setor. *Dias 6–7.*
-- **Slides "Aula 4 — Dos conceitos aos indicadores" (TPAE II)** — Drive. Use para escrever a pergunta do projeto. *Dia 1.*
-- **Documento "Análise de balanço"** — Drive. Margens bruta, operacional e líquida e EBIT como exercício extra de fórmulas. *Opcional.*
-- **E-mail "Link das aulas" do curso de Finanças Pessoais (set/2026)** — Gmail. Aulas sobre juros compostos e inflação para reforçar o IPCA acumulado e o juro real. *Dia 5, opcional.*
-- **Turmas de Estatística Econômica I e II** — avisos no Gmail; material na turma virtual do SIGAA. Listas e notas de aula para reforçar média, variância e desvio padrão.
+**Materiais pessoais:** ficam no arquivo local `meus-materiais.md` (não vai para o GitHub).
 
 ---
 
@@ -55,8 +50,7 @@ Prioridade para conteúdos gratuitos e em português; os materiais em inglês en
 
 **Lições do SQLBolt por dia:** Dia 8 → 1–2 · Dia 9 → 3–4 · Dia 10 → 10–11 · Dia 11 → 12 · Dia 12 → 6–7
 
-**Seus materiais nesta semana**
-- **"Entrega 4 — Plano de dados" (TPAE II)** — Drive. Parte sobre chaves de junção. *Dia 12.*
+**Materiais pessoais:** ficam no arquivo local `meus-materiais.md` (não vai para o GitHub).
 
 ---
 
@@ -73,9 +67,7 @@ Prioridade para conteúdos gratuitos e em português; os materiais em inglês en
 | Pandas — tutoriais oficiais de introdução | EN | https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html |
 | StatQuest — estatística explicada visualmente (Dia 21) | EN | https://www.youtube.com/@statquest |
 
-**Seus materiais nesta semana**
-- **Notebooks do Colab da disciplina (aula08 e task07)** — Drive › Colab Notebooks. Referência de sintaxe Python/Pandas já vista em aula; tente refazer trechos sem olhar e compare. *Dias 15, 19 e 20.*
-- **Turmas de Estatística Econômica I e II** — SIGAA. Reforço de correlação. *Dia 21.*
+**Materiais pessoais:** ficam no arquivo local `meus-materiais.md` (não vai para o GitHub).
 
 ---
 
@@ -91,15 +83,11 @@ Prioridade para conteúdos gratuitos e em português; os materiais em inglês en
 | Looker Studio — alternativa no navegador para Mac/Chromebook | — | https://lookerstudio.google.com |
 | GitHub Docs — primeiro repositório (Dia 29) | PT | https://docs.github.com/pt/get-started/start-your-journey/hello-world |
 
-**Seus materiais nesta semana**
-- **Planilha "Monitor 2026"** — referência de painel real. *Dia 26.*
-- **Slides "Aula 4 — Dos conceitos aos indicadores" (TPAE II)** — títulos-conclusão do dashboard. *Dia 28.*
-- **"Entrega 4 — Plano de dados" (TPAE II)** — dicionário de variáveis para o README. *Dia 29.*
+**Materiais pessoais:** ficam no arquivo local `meus-materiais.md` (não vai para o GitHub).
 
 ---
 
 ## Depois dos 30 dias
 
-- **Dados abertos da CVM** — segundo projeto (indicadores de empresas listadas, com o material de "Análise de balanço"): https://dados.cvm.gov.br
-- **Formulário "Educação financeira entre estudantes de graduação" (TPAE II)** — Drive. As respostas anonimizadas podem virar outro projeto (limpeza em Pandas + dashboard), respeitando a LGPD e as regras do projeto.
+- **Dados abertos da CVM** — segundo projeto (indicadores de empresas listadas): https://dados.cvm.gov.br
 - **Certificação PL-300** (Microsoft Power BI Data Analyst) — meta de médio prazo.

@@ -4,7 +4,7 @@
 COMO USAR ESTE MODELO
 1. Duplique este arquivo para cada semana: semana-02.md, semana-03.md, semana-04.md.
 2. Troque o número da semana, o foco e os dias (Semana 1: 1–7 · 2: 8–14 · 3: 15–22 · 4: 23–30).
-   A Semana 3 tem 8 dias: copie mais uma ficha diária.
+   As Semanas 3 e 4 têm 8 dias: copie mais uma ficha diária.
 3. Preencha a ficha nos 10 minutos de revisão de cada sessão.
 -->
 

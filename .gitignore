@@ -1,0 +1,20 @@
+# Materiais pessoais (fica só no computador/OneDrive)
+meus-materiais.md
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+
+# Power BI: arquivos temporários e backups
+*.pbix.bak
+~$*
+
+# Dados brutos (podem ser baixados de novo pelas APIs do BCB/IBGE)
+dados_brutos/
+
+# Sistema
+desktop.ini
+Thumbs.db
+.DS_Store
